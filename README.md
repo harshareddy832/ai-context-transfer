@@ -1,6 +1,6 @@
 # AI Context Transfer
 Are you an AI power user with rate limit problems, here's your solution:
-Browser extension that transfers conversation context between AI chatbots when you hit rate limits. Thanks to Claude for rapid development. 
+Browser extension that transfers conversation context between AI chatbots when you hit rate limits. 
 
 ## What it does
 
