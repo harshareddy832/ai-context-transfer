@@ -2,6 +2,10 @@
 Are you an AI power user with rate limit problems, here's your solution:
 Browser extension that transfers conversation context between AI chatbots when you hit rate limits. 
 
+## Note
+Still in Dev. 
+
+
 ## What it does
 
 - **Detects rate limits** on ChatGPT and Claude automatically
